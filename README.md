@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kronosuu
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Anyone else
-- 📫 How to reach me @muhammet.emirrr.44@gmail.com
+- 👋 Hi, I’m @memiryagci
+- 👀 C#, .NET, JAVA
+- 📫 @muhammet.emirrr.44@gmail.com
 
 <!---
 kronosuu/kronosuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
